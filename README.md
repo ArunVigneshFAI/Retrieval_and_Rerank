@@ -1,4 +1,4 @@
-![image](https://github.com/ArunVigneshFAI/Retrieval_and_Rerank/assets/141916176/0f2c1449-7ba0-4215-8e11-fb01abb34ccb)# Retrieval and Rerank
+# Retrieval and Rerank
 SentenceTransformers are used to generate embeddings for queries, sentences, and paragraphs, in the context of semantic search.
 
 In scenarios involving intricate search requirements, such as question-answering retrieval, enhanced search performance can be achieved through the implementation of the Retrieve & Re-Rank strategy.
